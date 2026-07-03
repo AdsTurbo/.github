@@ -14,9 +14,9 @@ Our open-source projects focus on practical creative operations for marketers, D
 
 ## Start here
 
-- Website: [adsturbo.ai](https://adsturbo.ai)
-- API: [AdsTurbo Open API](https://adsturbo.ai/open-api)
-- Video ad workflows: [AdsTurbo Features](https://adsturbo.ai/features)
+- Website: [adsturbo.ai](https://adsturbo.ai/?utm_source=adsturbo_github_profile&utm_medium=github&utm_campaign=org_profile)
+- API: [AdsTurbo Open API](https://adsturbo.ai/open-api?utm_source=adsturbo_github_profile&utm_medium=github&utm_campaign=org_profile)
+- Video ad workflows: [AdsTurbo Features](https://adsturbo.ai/features?utm_source=adsturbo_github_profile&utm_medium=github&utm_campaign=org_profile)
 
 ## Principles
 
